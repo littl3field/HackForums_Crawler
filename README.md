@@ -1,3 +1,3 @@
 # HackForums-Spider
 
-Python Spider that crawlers data from https://hackforums.net/
+Python Spider that crawls data from https://hackforums.net/
